@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba75163f-27b3-44f7-8548-0eb5c8e525c9" name="Default Changelist" comment="" />
+    <list default="true" id="785c05f2-6649-4381-b411-635873ccfcca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test_f.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/6.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/6.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/settings.gradle" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,56 +40,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1rRmKHnSHrG0wdLtDK4HeuaNJQj" />
+  <component name="ProjectId" id="1sXUnGkMWYE6wU4MN2p3F7eOE21" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba75163f-27b3-44f7-8548-0eb5c8e525c9" name="Default Changelist" comment="" />
-      <created>1618947210123</created>
+      <changelist id="785c05f2-6649-4381-b411-635873ccfcca" name="Default Changelist" comment="" />
+      <created>1621018592274</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618947210123</updated>
+      <updated>1621018592274</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2691" y="294" key="FileChooserDialogImpl" timestamp="1618948347245">
-      <screen x="1982" y="0" width="1858" height="1080" />
-    </state>
-    <state x="2691" y="294" key="FileChooserDialogImpl/95.0.1002.617/1982.0.1858.1080@1982.0.1858.1080" timestamp="1618948347245" />
-    <state x="2391" y="114" key="SettingsEditor" timestamp="1618947716567">
-      <screen x="1982" y="0" width="1858" height="1080" />
-    </state>
-    <state x="2391" y="114" key="SettingsEditor/95.0.1002.617/1982.0.1858.1080@1982.0.1858.1080" timestamp="1618947716567" />
-    <state x="2502" y="160" key="new project wizard" timestamp="1618948412407">
-      <screen x="1982" y="0" width="1858" height="1080" />
-    </state>
-    <state x="2502" y="160" key="new project wizard/95.0.1002.617/1982.0.1858.1080@1982.0.1858.1080" timestamp="1618948412407" />
   </component>
 </project>
